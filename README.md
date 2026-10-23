@@ -19,6 +19,7 @@ foundation in offensive and defensive security.
 |---|-----|---------------|----------|
 | 01 | [vsFTPd 2.3.4 Backdoor](./01-vsftpd-backdoor/) | CVE-2011-2523 | Home Lab |
 | 02 | [Hashcat Password Cracking](./02-hashcat-password-cracking/) | Password Cracking | Windows / Kali |
+| 03 | [USB Wi-Fi Setup & Monitor Mode](./03-usb-wifi-setup/) | Hardware Passthrough | Home Lab |
 
 
 ## 🧰 Tools
